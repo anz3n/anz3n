@@ -5,6 +5,6 @@ a real-world pentesting tool, featuring nfc, rfid, and more
 
 ### roadmap
 *\#moved to https://trello.com/b/TEjFxtYs/anz3n-todo*
-
+if you want to make changes, make a pr and I might reflect them
 
 more soon™️
