@@ -5,7 +5,7 @@
 ------------
 # warning
 ## *you reap what you sow*
-##### if you test on equipment that you have not been permitted to test on by it's owner, you can end up in jail.
+##### if you test on equipment that you have not been permitted to test on by its owner, you can end up in jail.
 ##### permanent damage can be caused by this device, make sure you know what you're doing. i'm not responsible for anything done with this device by the end users.
 ------------
 # roadmap
